@@ -1,1 +1,1 @@
-{"disabled": [], "to_remove": [], "to_install": {}}
+{"disabled": ["UM3NetworkPrinting", "UltimakerMachineActions"], "to_remove": [], "to_install": {}}
